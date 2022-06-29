@@ -1,0 +1,26 @@
+2022-06-29 12:37:00 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 11.0.13 on DESKTOP-UAP6CBH with PID 19112 (F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master\target\classes started by Pritam Ray in F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master)
+2022-06-29 12:37:00 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-06-29 12:37:00 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-06-29 12:43:16 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 11.0.13 on DESKTOP-UAP6CBH with PID 8972 (F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master\target\classes started by Pritam Ray in F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master)
+2022-06-29 12:43:16 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-06-29 12:43:16 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-06-29 12:43:17 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 2.491 seconds (JVM running for 4.039)
+2022-06-29 12:44:00 [http-nio-9999-exec-1] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Request Ram
+2022-06-29 12:44:00 [http-nio-9999-exec-1] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Response Hi Ram Welcome to Java Techie
+2022-06-29 12:51:35 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Starting SpringBootLoggingApplication using Java 11.0.13 on DESKTOP-UAP6CBH with PID 17000 (F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master\target\classes started by Pritam Ray in F:\MyAllPorgrams\Java Framework\SpringBootIdeasProjects\spring-boot-logging-master)
+2022-06-29 12:51:35 [restartedMain] DEBUG c.j.s.l.a.SpringBootLoggingApplication -
+				Running with Spring Boot v2.7.1, Spring v5.3.21
+2022-06-29 12:51:35 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				No active profile set, falling back to 1 default profile: "default"
+2022-06-29 12:51:36 [restartedMain] INFO  c.j.s.l.a.SpringBootLoggingApplication -
+				Started SpringBootLoggingApplication in 2.467 seconds (JVM running for 3.747)

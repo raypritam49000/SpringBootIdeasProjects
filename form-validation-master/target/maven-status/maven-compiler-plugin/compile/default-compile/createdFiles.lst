@@ -1,0 +1,3 @@
+com\javatechie\spring\validate\api\controller\FormController.class
+com\javatechie\spring\validate\api\FormValidationApplication.class
+com\javatechie\spring\validate\api\entity\Person.class

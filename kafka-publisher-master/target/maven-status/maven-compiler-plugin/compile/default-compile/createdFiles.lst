@@ -1,0 +1,3 @@
+com\javatechie\spring\kafka\api\KafkaPublisherApplication.class
+com\javatechie\spring\kafka\api\config\KafkaPublisherConfig.class
+com\javatechie\spring\kafka\api\User.class
